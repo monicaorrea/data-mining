@@ -1,4 +1,4 @@
-# Data-mining
+# Data-mining 🔨
 This repository contains a variety of Jupyter Notebooks addressing different data mining techniques. Each notebook focuses on a specific aspect of data analysis, providing practical examples and detailed explanations.
 
 
