@@ -1,5 +1,5 @@
 # Data-mining
-Este repositorio contiene una variedad de Notebooks de Jupyter que abordan diferentes técnicas de minería de datos. Cada notebook se centra en un aspecto específico del análisis de datos, proporcionando ejemplos prácticos y explicaciones detalladas.
+This repository contains a variety of Jupyter Notebooks addressing different data mining techniques. Each notebook focuses on a specific aspect of data analysis, providing practical examples and detailed explanations.
 
 
 **1. Regresión OLS (Ordinary Least Squares)**
