@@ -20,7 +20,7 @@ Clustering.ipynb
 
 The dataset "DatosEleccionesEspaña.xlsx" contains demographic information about various municipalities in Spain, along with the results obtained in an electoral process. In this exercise, the primary goal is to create groups of autonomous communities based on certain pre-selected characteristics using clustering techniques such as k-means or ward, as well as dimensionality reduction.
 
-## **4. Reducción de Dimensionalidad**
+## **4. Dimensionality Reduction**
 
 Dimensionality_reduction.ipynb
 
